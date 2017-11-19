@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLMaster", "XAMLMaster\XAMLMaster\XAMLMaster.csproj", "{587E1934-ADB2-47A0-AF9D-D1187D9AB55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLMaster.Tizen", "XAMLMaster\XAMLMaster.Tizen\XAMLMaster.Tizen.csproj", "{C0E17A9E-A225-417A-97E4-B8DD382E890F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587E1934-ADB2-47A0-AF9D-D1187D9AB55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587E1934-ADB2-47A0-AF9D-D1187D9AB55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587E1934-ADB2-47A0-AF9D-D1187D9AB55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587E1934-ADB2-47A0-AF9D-D1187D9AB55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E17A9E-A225-417A-97E4-B8DD382E890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E17A9E-A225-417A-97E4-B8DD382E890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E17A9E-A225-417A-97E4-B8DD382E890F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E17A9E-A225-417A-97E4-B8DD382E890F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4561E2-C2DB-40B2-ACBA-B1A5C169E28C}
+	EndGlobalSection
+EndGlobal
